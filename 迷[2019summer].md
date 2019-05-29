@@ -24,6 +24,13 @@
 - 一可用python编写的开源工具you-get。
 https://github.com/soimort/you-get#supported-sites
 
+you-get -o /temp http://tv.cctv.com/2019/04/08/VIDEK0hxH6lJEgOJTBnd6Zxd190408.shtml?spm=C86503.P0gvObVdQv8q.EuofkZhc2HxM.4
+
+pip install PySocks
+
+you-get -s 127.0.0.1:1080 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
+
+
 - 二可用浏览器插件。火狐浏览器里在https://addons.mozilla.org/en-US/firefox/ 搜索"video", 就能找到
 [Easy Video Downloader (Flash and Video)](https://addons.mozilla.org/en-US/firefox/addon/easy-video-downloader/?src=search) 等等好多关于视频下载的插件
 
