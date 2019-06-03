@@ -1,6 +1,6 @@
 ## 2019-05-29 三 阴
-### 少儿编程在全国开始如火如荼
-今天想到去长沙哪个少儿编程培训班做辅导。凭我喜欢超越的学习上进心和快捷明晰的学习方式，我想我领的孩子很快会变得各科成绩优异，在编程领域让老师家长们惊叹夸赞……在so.com和cn.bing.com中搜索，发现现在全国少儿编程正搞得如火如荼！
+### 少儿编程在全国开始烽火四起
+今天想到去长沙哪个少儿编程培训班做辅导。凭我喜欢超越的学习上进心和快捷明晰的学习方式，我想我领的孩子很快会变得各科成绩优异，在编程领域让老师家长们惊叹夸赞……在so.com和cn.bing.com中搜索，发现现在全国少儿编程正搞得狼烟四起征途漫漫！
 
 - [童程童美&好小子](http://www.it61.cn)
     长沙童程童美学校：芙蓉区韶山北路169号
@@ -33,6 +33,24 @@ you-get -s 127.0.0.1:1080 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
 
 - 二可用浏览器插件。火狐浏览器里在https://addons.mozilla.org/en-US/firefox/ 搜索"video", 就能找到
 [Easy Video Downloader (Flash and Video)](https://addons.mozilla.org/en-US/firefox/addon/easy-video-downloader/?src=search) 等等好多关于视频下载的插件
+
+- 三可用youtube-dl下载youtube上的视频
+https://github.com/ytdl-org/youtube-dl
+
+- 头条视频下载
+https://miku.tools/tools/toutiao_video_downloader
+
+- 另外下载网易云音乐可到这里试试
+https://miku.tools/tools/163_music_downloader
+
+## 2019-05-30 四 阴
+### 发现两个强悍的身份证图片生成工具
+发现这两个强悍的身份证图片生成工具，玩味一下，无伤大雅
+- https://github.com/airob0t/idcardgenerator
+- https://miku.tools/tools/idcard_generator/
+    https://github.com/Ice-Hazymoon/idcard_generator
+
+
 
 
 
