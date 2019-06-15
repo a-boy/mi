@@ -50,7 +50,13 @@ https://miku.tools/tools/163_music_downloader
 - https://miku.tools/tools/idcard_generator/
     https://github.com/Ice-Hazymoon/idcard_generator
 
+## 2019-06-03 一 晴
+今天在freenom.com注册到了免费域名2293.ml, 作为我的网站【纯情部落】。
+我会写一系列软件和文档，将纯情部落打造成我的软件梦工厂……
 
+![](images/2019-06-03_16-56-11.png)
 
-
-
+## 2019-06-15 六 晴
+- Russian Aurora OS  
+- Opera GX is a special version of the Opera browser built specifically to complement gaming.
+- Windows 10 WSL , kali linux
