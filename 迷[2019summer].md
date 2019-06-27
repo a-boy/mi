@@ -614,3 +614,12 @@ User Administration
    PsLoggedOn Who's logged on (locally or via resource sharing)
    PsPasswd   Change account password
    SUBST    Associate a path with a drive letter
+
+## 2019-06-22 六 阴雨
+C:\Windows\SysWOW64\Macromed\Flash
+
+https://images.offensive-security.com/virtual-images/kali-linux-2019.2-vbox-amd64.ova.torrent
+
+http://www.autopiano.cn  https://github.com/WarpPrism/AutoPiano
+
+https://www.screentogif.com  https://github.com/NickeManarin/ScreenToGif
