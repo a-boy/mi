@@ -116,6 +116,7 @@ net user NewGuy /delete
 
 
 ### An A-Z Index of the Windows CMD command line
+<pre>
    ADDUSERS Add or list users to/from a CSV file
    ADmodcmd Active Directory Bulk Modify
    ARP      Address Resolution Protocol
@@ -614,6 +615,7 @@ User Administration
    PsLoggedOn Who's logged on (locally or via resource sharing)
    PsPasswd   Change account password
    SUBST    Associate a path with a drive letter
+</pre>
 
 ## 2019-06-22 六 阴雨
 C:\Windows\SysWOW64\Macromed\Flash
@@ -623,3 +625,29 @@ https://images.offensive-security.com/virtual-images/kali-linux-2019.2-vbox-amd6
 http://www.autopiano.cn  https://github.com/WarpPrism/AutoPiano
 
 https://www.screentogif.com  https://github.com/NickeManarin/ScreenToGif
+
+## 2019-06-28 晴
+20190626
+爱思助手 刷机
+css布局生成器
+Python Tutor
+pygame
+有道云笔记 尤其微信公众号文章一键发送到有道云笔记的功能个人非常喜欢，体验比转发到kindle还要好上几分
+sonic pi
+Inpaint 去水印
+一粒云盘
+冰点文库是一款完全免费下载百度文库的软件
+https://github.com/cfenollosa/os-tutorial
+
+20190627
+15款编程游戏
+vnote
+GPD pocket被称为“世上最小的笔记本电脑”，最新的Pocket 2机身最薄处仅 8mm，重量为 515g
+GPD其实是由中国深圳的一家公司研发生产的。
+
+目前GPD pocket2代，不同版本京东售价在人民币3399-4459元之间。
+://www.cnbc.com/2019/03/19/google-stadia-new-streaming-game...
+
+Mar 19, 2019 · Google unveiled its streaming game service called Stadia on Tuesday which won't require people to buy expensive gameconsoles or computers to play the latest video games.
+
+https://github.com/zlgopen/awtk c/c++ GUI
