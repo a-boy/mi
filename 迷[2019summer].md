@@ -803,3 +803,20 @@ The nbconvert tool, jupyter nbconvert, converts notebooks to various other forma
     Markdown (md)
     ReStructured Text (rst)
     executable script
+### 网络信息游猎
+gcc会对代码完成预处理，编译，汇编和链接四个步骤
+
+试用任何操作系统，点击下面的链接： https://distrotest.net/
+
+在 Github 上有一个叫 Felix Rieseberg 的程序员基于 Electron 框架开发了一个 Windows 95 的桌面程序。
+
+https://github.com/houshanren/hangzhou_house_knowledge
+2017年买房经历总结出来的买房购房知识分享给大家
+
+TikTok是一款简单易操作的短视频应用，用户以吸引人的音乐或语音为背景，上传和编辑15秒短视频。
+
+上海的日本人学校
+其实上海校区分为两个部分，一个是在国际金融中心附近的校区，又称为浦东校区；一个是虹桥校区。
+
+2019年7月在中国棋院举行的威凯杯全国象棋等级赛终于落下帷幕了。来自上海的小将蒋融冰从142名省市级选手、业余名将中脱颖而出，夺得男子组桂冠。也顺带获得了“象棋大师”的申报资格。女子组冠军由湖南何媛夺得。
+
