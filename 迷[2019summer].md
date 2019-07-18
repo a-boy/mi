@@ -76,22 +76,6 @@ http://www.autopiano.cn  https://github.com/WarpPrism/AutoPiano
 https://www.screentogif.com  https://github.com/NickeManarin/ScreenToGif
 
 
-## 2019-06-03 一 晴
-今天在freenom.com注册到了免费域名2293.ml, 作为我的网站【纯情部落】。
-我会写一系列软件和文档，将纯情部落打造成我的软件梦工厂……
-
-![](images/2019-06-03_16-56-11.png)
-
-## 2019-06-15 六 晴
-- Russian Aurora OS  
-- Opera GX is a special version of the Opera browser built specifically to complement gaming.
-- Windows 10 WSL , kali linux
-- Huawei AppGallery, https://huaweimobileservices.com/appgallery/    https://appstore.huawei.com
-- shodan.io
-
-知乎sky zhou skyzhou 作为一个用node-webkit+sqlite开发pc应用的程序狗来说，PWA的前景真的很不错
-
-
 ## 2019-06-01
 迷城游历  
 路线： 岳麓山北门---湖南师大---麓山南路---湖南省艺术学校---麓南青年街---后湖---长沙风景区管理部---中非经贸研究中心---潇湘中路  
@@ -793,3 +777,29 @@ Snipaste 截图+贴图
 目前印度最火的手机，就是一台搭载 KaiOS ，叫 Jio Phone 的功能机。
 
 Geohot原名George Hotz，美媒把“天才黑客少年”的称号赠予了他。17岁解锁了Iphone；19岁开发了紫雨、黑雨iOS 越狱工具；20岁破解了索尼最无坚不摧的PS3，还惹上了官司，间接导致世界最大黑客组织Anonymous和索尼爆发了一场黑客大战；26岁，他一口回绝特斯拉大佬Musk开出的百万offer自造无人车，成立公司 Comma.ai，后来还把公司核心技术自动驾驶软件代码在Github上开源了……
+
+https://bellard.org
+
+QuickJS: a small but complete Javascript engine.
+
+TCC is a tiny but complete ISOC99 C compiler which enables you to use C as scripting language. 
+
+### 用Jupyter Notebooks创作和发布你自己的书本
+https://github.com/takluyver/bookbook
+https://www.youtube.com/watch?v=DvEP3A-CzTQ
+
+https://github.com/takluyver/nbopen  Open a Jupyter notebook in the best available server
+
+https://github.com/jupyter/nbdime Tools for diffing and merging of Jupyter notebooks. 
+https://github.com/kynan/nbstripout strip output from Jupyter and IPython notebooks 
+
+https://github.com/jupyter/nbconvert  
+The nbconvert tool, jupyter nbconvert, converts notebooks to various other formats via Jinja templates. The nbconvert tool allows you to convert an .ipynb notebook file into various static formats including:
+
+    HTML
+    LaTeX
+    PDF
+    Reveal JS
+    Markdown (md)
+    ReStructured Text (rst)
+    executable script
