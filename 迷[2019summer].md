@@ -80,8 +80,6 @@ https://www.screentogif.com  https://github.com/NickeManarin/ScreenToGif
 迷城游历  
 路线： 岳麓山北门---湖南师大---麓山南路---湖南省艺术学校---麓南青年街---后湖---长沙风景区管理部---中非经贸研究中心---潇湘中路  
 
-<img src="images/20190601/IMG_20190601_171129.jpg" width="540">
-<img src="images/20190601/IMG_20190601_171048.jpg" width="540">
 <img src="images/20190601/IMG_20190601_141925.jpg" width="540">
 <img src="images/20190601/IMG_20190601_165516.jpg" width="540">
 <img src="images/20190601/IMG_20190601_182520.jpg" width="540">
@@ -820,3 +818,18 @@ TikTok是一款简单易操作的短视频应用，用户以吸引人的音乐�
 
 2019年7月在中国棋院举行的威凯杯全国象棋等级赛终于落下帷幕了。来自上海的小将蒋融冰从142名省市级选手、业余名将中脱颖而出，夺得男子组桂冠。也顺带获得了“象棋大师”的申报资格。女子组冠军由湖南何媛夺得。
 
+## 2019-07-22 一 晴
+3个Java的反编译工具：javap、jad和CFR
+
+一名来自俄罗斯的程序员
+Vladimir Romanyuk
+用他的无尽想象
+做出了一款畅游宇宙的游戏
+Space Engine
+
+https://blinkenshell.org 提供了一个学习 Unix、使用 IRC、托管简单网站和共享文件的 Linux shell  
+sdf.org SDF Public Access UNIX System .. Est. 1987  
+试用任何操作系统： https://distrotest.net/
+
+两块回球板练习打乒乓球
+小净水器直接快速过滤河水成饮用水
