@@ -831,5 +831,65 @@ https://blinkenshell.org 提供了一个学习 Unix、使用 IRC、托管简单�
 sdf.org SDF Public Access UNIX System .. Est. 1987  
 试用任何操作系统： https://distrotest.net/
 
-两块回球板练习打乒乓球
+两块回球板练习打乒乓球  
 小净水器直接快速过滤河水成饮用水
+
+## 2019-07-23 二 晴
+### 在长郡中学附近的南门口，一个4楼上
+<img src="./images/20190723/IMG_20190722_125542.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_130238.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_130305.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_130335.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_130346.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_140646.jpg" width="800">
+
+### 长沙步行街的**城市英雄**游戏厅
+<img src="./images/20190723/IMG_20190722_140859.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141045.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141052.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141102.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141108.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141127.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141141.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141209.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141219.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141301.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141316.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141327.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141345.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141506.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141525.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141620.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_141648.jpg" width="800">
+<img src="./images/20190723/IMG_20190722_142650.jpg" width="800">
+
+## 2019-07-24 三 晴
+五个字符让系统死机: 1.bat的内容编辑为`%0|%0`，运行则出现死循环，“内存不足”，“无法分配管道资源”……
+%0是个第一个命令行参数，即程序运行本身，“|”为管道符号，将前一个命令的输出作为后一个命令的输入，这样`%0|%0`就会逐渐耗尽内存，最终会导致死机。
+
+try pandoc. For example, to convert a Markdown document to Word format: 
+```
+pandoc README.md --from markdown --to docx -o temp.docx
+```
+
+小伙实测大疆无人机在农村最高能飞500米
+
+外国牛人用杯子和注射器制作动力潜艇模型，在湖下拍摄
+
+Skulpt 是一个用 Javascript 实现的在线 Python 执行环境，它可以让你轻松在浏览器中运行 Python 代码。使用 skulpt 结合 CodeMirror 编辑器即可实现一个基本的在线Python编辑和运行环境。
+
+SwitchHosts是一款专业的Hosts 切换软件。
+
+Java解析、生成Excel比较有名的框架有Apache poi、jxl，easyexcel重写了poi对07版Excel的解析，简单快速
+
+### 这两天状态挺不错
+<img src="./images/20190724/IMG_20190723_063633.jpg" width="800">
+<img src="./images/20190724/IMG_20190723_221623.jpg" width="800">
+<img src="./images/20190724/IMG_20190724_092405.jpg" width="800">
+<img src="./images/20190724/IMG_20190724_095128.jpg" width="800">
+<img src="./images/20190724/IMG_20190723_063742.jpg" width="800">
+<img src="./images/20190724/IMG_20190723_221627.jpg" width="800">
+<img src="./images/20190724/IMG_20190724_092633.jpg" width="800">
+<img src="./images/20190724/IMG_20190723_195116.jpg" width="800">
+<img src="./images/20190724/IMG_20190723_221629.jpg" width="800">
+<img src="./images/20190724/IMG_20190724_093940.jpg" width="800">
