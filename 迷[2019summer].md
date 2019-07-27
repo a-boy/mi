@@ -893,3 +893,33 @@ Java解析、生成Excel比较有名的框架有Apache poi、jxl，easyexcel重�
 <img src="./images/20190724/IMG_20190723_195116.jpg" width="800">
 <img src="./images/20190724/IMG_20190723_221629.jpg" width="800">
 <img src="./images/20190724/IMG_20190724_093940.jpg" width="800">
+
+## 2019-07-27 星期六 晴
+非常怀念2000年时的我，那时我几乎天天泡在电脑旁。今天忍不住在VirtualBox6.0里安装Windows 2000 professional.
+5.00.2195.1_x86fre_Professional_zh-cn-W2PFPP_CN.iso   winworldpc.com
+
+Tested & Verified Working Serials
+
+Windows 95A Upgrade
+049-6301576
+
+Windows 98 Second Edition
+RW9MG-QR4G3-2WRR9-TG7BH-33GXB
+RC7JH-VTKHG-RVKWJ-HBC3T-FWGBG
+
+Windows Millennium
+B88DH-VQ89B-G4WWK-DCBP2-7B7PW
+HBTD9-6P338-XT2MV-QBTTF-WPGGB
+
+Windows 2000 Professional SP4
+DDTPV-TXMX7-BBGJ9-WGY8K-B9GHM
+
+<img src="./images/20190727/2019-07-27_10-09-40.png" width="800">
+<img src="./images/20190727/2019-07-27_10-25-23.png" width="800"> 
+<img src="./images/20190727/2019-07-27_10-45-29.png" width="800">
+
+想起那时的软件和网站，心里好生怀念！
+
+Delphi, Dreamweaver, Photoshop, NetAnt， CuteFTP, FTP95Pro, NetTerm, Winamp, 超级解霸, RealPlayer, IIS5.0, 侍魂II, 古墓丽影，帝国时代，红警，Starcraft......
+
+网易、新浪、榕树下、亦凡书库、黄金书屋、QQ、OICQ、yahoo、北大FTP搜索……
