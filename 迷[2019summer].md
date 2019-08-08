@@ -920,6 +920,134 @@ DDTPV-TXMX7-BBGJ9-WGY8K-B9GHM
 
 想起那时的软件和网站，心里好生怀念！
 
-Delphi, Dreamweaver, Photoshop, NetAnt， CuteFTP, FTP95Pro, NetTerm, Winamp, 超级解霸, RealPlayer, IIS5.0, 侍魂II, 古墓丽影，帝国时代，红警，Starcraft......
+Delphi, Dreamweaver, Photoshop, NetAnt， CuteFTP, FTP95Pro, NetTerm, Winamp, 超级解霸, RealPlayer, QQ、OICQ、IIS5.0, 侍魂II, 古墓丽影，FIFA2000, 帝国时代，红警，Starcraft......
 
-网易、新浪、榕树下、亦凡书库、黄金书屋、QQ、OICQ、yahoo、北大FTP搜索……
+网易、新浪、榕树下、亦凡书库、黄金书屋、yahoo、北大FTP搜索……
+
+## 2019-07-28 星期日 大晴
+最简写字板,将以下这段代码片段粘贴到Chrome的地址栏中。然后将页面保存到你的书签栏以方便访问。这个编辑器支持对文本的格式设置（Ctrl或Cmd+B为设置粗体，Ctrl或Cmd+I为设置斜体，Ctrl或Cmd+U为设置下划线），甚至还附带一个内置的拼写检查功能。打开它，你可以直接开始打字——如果你想保存你的想法，以便以后检索，按Ctrl或Cmd+S。
+```
+data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%; font-size: 1.5em; font-family: Arial; }</style><body onLoad="document.body.focus();" contenteditable spellcheck>
+```
+
+Blockly是Google公司开发的儿童编程语言，该语言一方面采用了Scratch积木模块化的开发技术与设计思想，一方面进一步改进了单一积木开发形式
+<img src="./images/20190728/2019-07-28_07-42-11.png" width="800">
+
+https://github.com/gramener/comicgen/#gallery
+
+pygame
+
+改电风枪用电烙铁，手机换尾插
+
+http://www.java4k.com/index.php?action=games&cid=9
+http://www.java4k.com/index.php?action=games&method=view&gid=461#source
+
+利用pywifi暴力破解wifi密码
+
+http://www.ramanujanmachine.com/
+
+SpaceVim
+
+
+
+## 2019-08-07 晴转阵雨
+世上首款"弹跳跑鞋"，速度惊人
+
+https://www.skypixel.com/ 天空之城 世界航拍
+
+麻雀大小的18克直升机大黄蜂，用于军事侦察，售价30万
+
+人见人爱的最新 Python 爬虫利器，现在requests库的作者又发布了一个新库，叫做requests-html
+
+湖南赤石特大桥创多项世界第一  
+世界最大室内冰雪乐园——湘江欢乐城  
+张家界玻璃桥是世界上最高最长的玻璃体大桥  
+全球最大单体建筑，是位于湖南长沙的万家丽国际MALL  
+
+美国当地时间2019年8月3日，美国得克萨斯州西部埃尔帕索一家沃尔玛商场内发生枪击事件。袭击最初造成20人死亡，其中包括6名墨西哥公民，26人受伤，随后又有2名重伤的墨西哥公民死亡。8月4日凌晨，美国俄亥俄州代顿又发生了一起枪击，造成至少10人死亡，多人受伤。
+
+2019夏季在今日头条上看视频新闻，感触最深的是美国和伊朗局势紧张，但今天看来，爆发战争的可能性很小。
+
+几天前又在蓝天回收中心买了40元旧书，以前买了两次，分别花了10多元和20元。
+96年的《电脑教育报合订本》上下册，内容比较单调，充斥其间的是{Windows95,USDOS5.0, CCED5.0, CONFIG.SYS, AUTOEXEC.BAT, WPS, 中文之星, KV200,……}，但有几篇读起来还挺有意思。尤其是关于debug.exe的使用介绍，这是我大学时没有掌握的。
+<img src="./images/20190807/IMG_20190807_053746.jpg" width="800">
+<img src="./images/20190807/IMG_20190807_063306.jpg" width="800">
+<img src="./images/20190807/IMG_20190807_080421.jpg" width="800">
+<img src="./images/20190807/IMG_20190807_054910.jpg" width="800">
+<img src="./images/20190807/IMG_20190807_075150.jpg" width="800">
+<img src="./images/20190807/IMG_20190807_082456.jpg" width="800">
+
+今天在虚拟机Windows2000Pro中重新学习下debug.exe的使用。
+<pre>
+C:>debug
+-?
+assemble     A [address]
+compare      C range address
+dump         D [range]
+enter        E address [list]
+fill         F range list
+go           G [=address] [addresses]
+hex          H value1 value2
+input        I port
+load         L [address] [drive] [firstsector] [number]
+move         M range address
+name         N [pathname] [arglist]
+output       O port byte
+proceed      P [=address] [number]
+quit         Q
+register     R [register]
+search       S range list
+trace        T [=address] [value]
+unassemble   U [range]
+write        W [address] [drive] [firstsector] [number]
+allocate expanded memory        XA [#pages]
+deallocate expanded memory      XD [handle]
+map expanded memory pages       XM [Lpage] [Ppage] [handle]
+display expanded memory status  XS
+-
+</pre>
+
+debug.exe应用1：给以前的旧电脑上清除CMOS密码
+
+<pre>
+C:>debug
+-O 70 10
+-O 71 10
+-R
+-Q
+重启电脑后即可无密码进入CMOS，若不行则尝试下
+C:>debug
+-O 71 10
+-O 72 10
+-R
+-Q
+</pre>
+
+debug.exe应用2：最简单的helloworld.com程序的制作
+<pre>
+c:\src> debug
+-a 100
+1373:0100 mov ah,9
+1373:0102 mov dx,108
+1373:0105 int 21
+1373:0107 ret
+1373:0108 db "Hello world!$"
+1373:0115
+-n c:\hi.com
+-r bx
+BX 0000
+:0
+-r cx
+CX 0000
+:15
+-w
+Writing 00015 bytes
+-q
+
+c:\src> c:\hi.com
+Hello world!
+
+hi.com的内容:
+B4 09 BA 08 01 CD 21 C3  48 69 2C 67 69 72 6C 21
+24 21 72 1A B8 
+</pre>
