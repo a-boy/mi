@@ -1023,31 +1023,33 @@ C:>debug
 -Q
 </pre>
 
-debug.exe应用2：最简单的helloworld.com程序的制作
+debug.exe应用2：最简单的hi.com程序的制作
 <pre>
-c:\src> debug
+c:\src>debug
 -a 100
 1373:0100 mov ah,9
 1373:0102 mov dx,108
-1373:0105 int 21
-1373:0107 ret
-1373:0108 db "Hello world!$"
-1373:0115
--n c:\hi.com
+0AC0:0105 int 21
+0AC0:0107 ret
+0AC0:0108 db "Hi !$"
+0AC0:010D
+-n hi.com
 -r bx
 BX 0000
 :0
 -r cx
 CX 0000
-:15
+:0D
 -w
-Writing 00015 bytes
+Writing 0000D bytes
 -q
 
-c:\src> c:\hi.com
-Hello world!
+C:\>hi
+Hi !
+
+C:\>type hi.com
+┤       ☺═!├Hi !$
 
 hi.com的内容:
-B4 09 BA 08 01 CD 21 C3  48 69 2C 67 69 72 6C 21
-24 21 72 1A B8 
+B4 09 BA 08 01 CD 21 C3  48 69 20 21 24 
 </pre>
