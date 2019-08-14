@@ -60,3 +60,16 @@ curl -X POST https://api.mathpix.com/v3/latex \
 gookey : java , chemistry , molecule
 
 海龟绘图 Lib/turtle.py     turtledemo    Tkinter GUI
+
+赵德力 飞行摩托 东莞汇天无人机有限公司总经理
+
+温州世贸中心，目前浙江第一高楼
+
+开箱569元，小米天文望远镜
+
+北京时间8月11日，2019年第五届深圳福田全国象棋公开赛在深圳市福田区战罢。最终卫冕冠军、业余悍将陆安京再次夺冠，实现了连续的第二次登顶，在江湖中声名大起。强力战手黄文俊收获亚军，四架马车之一的蔡佑广拿下季军，后起之秀欧照芳取得殿军。5-16名：陈树雄、李进、朱少钧、刘昱、林辉宇、刘云达、文汉忠、张雄、简嘉康、邹海涛、梁运龙、崔航。秦铭泽、石涛榕、周梓康、陈永豪分获少儿A、B、C、D组桂冠。
+
+https://github.com/vuejs/vue-devtools#vue-devtools
+https://github.com/vuejs/vue-cli/edit/docs/docs/guide/README.md
+
+ngrok
