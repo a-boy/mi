@@ -59,8 +59,9 @@ curl -X POST https://api.mathpix.com/v3/latex \
 
 gookey : java , chemistry , molecule
 
-海龟绘图 Lib/turtle.py     turtledemo    Tkinter GUI
+海龟绘图 Lib/turtle.py     turtledemo    tkinter GUI
 
+## 2019-08-15 四 阴
 赵德力 飞行摩托 东莞汇天无人机有限公司总经理
 
 温州世贸中心，目前浙江第一高楼
@@ -72,4 +73,22 @@ gookey : java , chemistry , molecule
 https://github.com/vuejs/vue-devtools#vue-devtools
 https://github.com/vuejs/vue-cli/edit/docs/docs/guide/README.md
 
+
+unpkg is a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL like: `unpkg.com/:package@:version/:file`  
+https://unpkg.com/marked@0.3.6  
+The unpkg CDN is powered by Cloudflare, one of the world's largest and fastest cloud network platforms.  
+https://unpkg.com/browse/vue@2.6.10/
+
+cdnjs: The #1 free and open source CDN built to make life easier for developers. https://cdnjs.com
+
+
+
+∷想做一个js pkg快速阅读器，罗列unpkg与cdnjs中的代码，并可编辑保存为副本
+
+idea: 基于examples的构建是开发项目的最快方式
+
 ngrok
+
+学习vuejs，遇到ngrok unpkg cdnjs vue-cli vue-devtools (github sponsorship).....这实在是一种快乐的历程，让我忍不住去oschina动弹
+
+http://www.oreilly.com.cn/index.php?func=completelist O'Reilly北京 全部书目
