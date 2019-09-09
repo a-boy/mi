@@ -144,6 +144,43 @@ Geek Uninstaller
 
 今天我写了个Goldbach猜想的证明，放在github.com/a-boy/playmath/
 
+
+## 20190908 晴
+ 
+idea：风计算；活动看板
+nwjs制作 zephyr 西风 南风
+
+Apple Card: A new kind of credit card. Created by Apple, not a bank.
+
+Huaweicloud pay
+小米支付
+
+谷歌的 TensorFlow
+Facebook 的 PyTorch
+
+头条视频：钢管烧鱼
+chrome扩展 SourceGraph
+
+在你的黑白命令终端上燃起一团火aafire命令
+
+Android 魔伴桌面
+黑客真的能入侵卫星吗？
+
+现在，42也被攻破了。
+
+它可以被写成3个整数的立方之和，这是100以内自然数的最后一个“彩蛋”。
+
+荣誉属于麻省理工的Andrew Sutherland 和布里斯托大学Andrew Booker。没错，两位同名的安德鲁共同完成了这一数学突破。
+并在MIT数学网站公布了结果：
+
+2018 年 8 月，戴尔 EMC 和英特尔宣布联合设计一款叫做 Frontera 的超级学术计算机，由美国国家科学基金会提供 6000 万美元资助，这台超算将取代德克萨斯大学奥斯汀分校（TACC）的 Stampede 2。上述计划在今年 6 月实现，并于今天上午正式公布 Frontera。
+
+英特尔声称，Frontera 可以实现每秒最高 38.7 千万亿次浮点运算，使其成为世界上支持建模和仿真、大数据和机器学习等学术工作的最快的计算机
+
+FreeCAD.
+建议你使用学校规定的软件 (AutoCAD、SolidEdge、Catia)，这些软件通常只在 Windows 上运行
+
+
 ## 20190909 晴
 ### 2020科学突破数学奖：埃斯金获奖，朱歆文获得新视野奖
 
