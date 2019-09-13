@@ -227,3 +227,138 @@ body {
     color: #333;
 }
 ```
+## 2019-09-13 晴
+金鲳鱼群
+
+可折叠手机
+可以买的可折叠手机
+1. 三星Galaxy Fold
+2. 华为Mate X  $2600
+3. Royole Flexpai
+4. LG V50双屏 €950
+即将推出的可折叠手机  
+1. 小米/ Mi Flex 预计发布日期： 2020年底
+2. Oppo可折叠手机
+3. 摩托罗拉Razr可折叠
+4. Apple可折叠手机
+
+https://github.com/almasaeed2010/AdminLTE
+非常流行的基于 Bootstrap 3.x 的免费的后台 UI 框架。  
+https://github.com/PanJiaChen/vue-element-admin
+一个基于 vue2.0 和 Eelement 的控制面板 UI 框架。  
+https://github.com/akveo/ngx-admin
+基于 Angular 2, Bootstrap 4 和 Webpack 的后台管理面板框架。  
+https://github.com/ant-design/ant-design-pro  
+https://github.com/akveo/blur-admin  
+https://github.com/vue-bulma/vue-admin
+基于 Vue 和 Bulma 的控制面板。  
+
+
+才女武亦姝高考613分进入清华一度让人认为是清华看重了她的名气而录取的。实则不然，武亦姝作为曾经火爆荧屏的中国诗词大会第二届冠军，虽然从录取分数上和清华还差2分，但是凭着前期武亦姝复旦附中清华自招降分政策的优势最终进入到了清华的新雅书院。
+孙沁怡，来自上海中学的18岁女孩，2019高考上海状元，就读北大。
+
+https://send.firefox.com/
+
+自动消除图片背景-- remove.bg官网。  
+下载保存视频素材 -- Y2mate.com
+savefrom.net   
+https://unsplash.com 免费图库
+多功能在线电子白板 -- webjets.io  
+
+排名前20的网页爬虫工具 octoparse 等
+
+Python实践-itchat获取微信
+
+Downie是一款十分厉害的视频下载软件。它支持几百个视频网站，国内外视频网站都支持，同时你还可以手动添加视频网站，还支持浏览器插件
+
+Bandicut是一款特别好用的视频无损分割与拼接软件
+
+Mirillis Action 游戏录制视频三大神器之一，超好的高清还原能力，1080p可以直接录制成mp4格式
+
+Piti插件是一款免费并且神奇的PPT插件，它让你制作PPT变得十分简单，它可以帮你自动生成PPT。
+
+Scrivener是各种作家的首选应用程序，每天都由畅销小说家，编剧，非小说作家，学生，学者，律师，记者，翻译等使用
+
+开源项目 Scrcpy 就能让任何安卓手机都能够直接通过有线/无线连接电脑，投屏，鼠标键盘让电脑反向控制手机等
+
+kali终端里输入
+“arpspoof -i eth0 -t 攻击对象ip -r 网关ip” 使局域网同伴暂时断网
+
+以无人驾驶收割机为代表的黑科技今年首次在全国亮相。
+
+在我国东部、南部海岸线上，漂着上百万个房子和网箱，这里是中国的“海鲜农场”。
+
+2019年9月10-11日，Google开发者大会在上海举行。此次Google开发者大会上，Google大中华区总裁陈俊廷（Stanley Chen）宣布，Grow with Google成长计划在中国正式推出；
+
+美国大学排名 https://www.usnews.com/best-colleges/rankings/national-universities
+
+https://github.com/zergtant/pytorch-handbook
+
+ThinkPad X390 好的轻薄本?
+
+近日，PINE64推出了Pinephone是一款特别的手机，因为他使用了开源的Linux系统，售价$150
+
+谷爱凌，2002年出生的滑雪界女明星，美中混血儿，决定加入中国国籍
+
+GitHub Python项目推荐|青岛大学|基于Python+Vue+Docker的程序竞赛在线评测系统
+https://github.com/QingdaoU/OnlineJudge
+demo:https://qduoj.com/
+
+虚拟歌手小夕 虚拟主播
+
+ingot  ion
+
+https://www.allhistory.com/
+
+https://www.liuchengtu.com/template
+
+中学物理作图工具  汉语宝典
+
+https://tinypng.com/ 图片压缩，3M多的手机照片压缩成了403K的jpg文件
+
+https://screen.guru/screenshot
+
+https://colorspark.app/ 生成随机颜色
+
+https://easypdf.com/  PDF工具，还有在线OCR
+
+https://techbrood.com/threejs/docs/
+
+GitHub VUE项目推荐|一个静态博客写作客户端 
+https://github.com/getgridea/gridea
+
+https://github.com/Microsoft/AirSim
+Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+欧拉公式：e^(I*π)+1=0  
+这里有网友的一首诗来欣赏这个公式之美
+
+《春怨》
+心中既有i，何故不表白;
+梦里合如 1，醒时各伤怀;
+春去春又来，e人空等待;
+闲时花凋零，不是浪漫π.
+
+https://github.com/will8211/unimatrix
+
+https://github.com/iawia002/Lulu
+
+Kettle 是一款国外开源的 ETL 工具，纯 Java 编写，绿色无需安装，数据抽取高效稳定(数据迁移工具)。Kettle 中有两种脚本文件，transformation 和 job
+
+纽约公共图书馆，一个让人去了就不想离开的地方......
+
+Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom
+
+
+https://github.com/salesforce/ctrl
+写作AI
+
+一位来自MIT的学生Kevin Kwok，用计算机视觉算法写了个Chrome插件Naptha，可以直接识别网页图片中的文字，并直接对它们进行高亮、复制粘贴、翻译、修改等操作。https://projectnaptha.com/
+
+
+龙舌兰果实 龙舌兰酒
+
+2019年马云退休，目标美国。2015年马云购买了面积约为113平方公里的布兰登公园(Brandon park)的所有权
+
+SpeechBrain：A PyTorch-based Speech Toolkit
+
