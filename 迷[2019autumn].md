@@ -362,3 +362,56 @@ https://github.com/salesforce/ctrl
 
 SpeechBrain：A PyTorch-based Speech Toolkit
 
+## 2019-09-19 
+上海欢乐谷过山车 广州长隆过山车
+
+独库公路 3d地图看5大进藏路线
+
+2017年8月，JCP执行委员会提出将Java的发布频率改为每六个月一次，新的发布周期严格遵循时间点，将在每年的3月份和9月份发布。
+
+目前，JDK官网上已经可以看到JDK 13的进展，最新版的JDK 13将于2019年9月17日发布。
+JDK13中包含的5个特性，能够改变开发者的编码风格的主要有Text Blocks和Switch Expressions两个新特性
+
+开源 Linux 智能手机 Librem 5 本月底开始分批次迭代发货。数次推迟发布日期后，Purism 终于定下了 Librem 5 的迭代发货计划，并宣布第一批手机将于 9 月 24 日开始发货。
+Librem 5 是一款以用户隐私和加密为核心的自由开源 Linux 智能手机，其运行基于 Debian 的 GNU/Linux 操作系统，桌面环境使用 KDE Plasma Mobile 或 GNOME Shell，只运行开源应用。该项目于 2017 年启动，并获得了超过 150 万美元的众筹，随后便进入硬件生产阶段
+
+https://github.com/tebelorg/TagUI-Python
+Python package for digital process automation (RPA)
+
+
+使用100米电缆,让一般只能飞行半小时的无人机连续飞行72小时,在第34届全国青少年科技大赛中获奖的山东学生,山东省实验中学高二学生史博元，16岁的他一直就是无人机迷 还喜欢弹吉他，到了专业九级。国家限制要求民用无人机不得飞行超过30分钟，大疆…
+
+NetSupport Manager是一款以Windows为中心的合法跨平台远程访问软件对其他多台设备（可以是运行不同操作系统的设备）进行远程屏幕控制和系统管理，但后来却遭到了黑客的滥用。
+
+坏消息是，网络安全研究员 mol69发现，Domen工具包不仅传播了NetSupport Manager，而且也传播了Amadey、Raccon和Predator 木马（全都是信息窃取类计算机病毒）。
+
+https://github.com/xi-editor/xi-editor
+Xi Editor 是 Google 开源的一款用 Rust 语言编写的文本编辑器
+
+Grumpy 是一个 Python to Go 源代码翻译编译器和运行时，旨在替代 CPython 2.7。 关键的区别是它将 Python 源代码编译为 Go 源代码，然后将其编译为本机代码，而不是字节码。这意味着 Grumpy 没有 VM。编译的 Go 源代码是对 Grumpy 运行时的一系列调用，Go 库服务与 Python C API 类似的目的（尽管不直接支持 C API）。（详情：
+https://github.com/google/grumpy
+
+tensorflow/magenta
+Magenta: Music and Art Generation with Machine Intelligence
+
+google/auto
+A collection of source code generators for Java.
+
+google/brotli
+Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, 
+
+Gumbo 是 Google 的一款用C语言实现的HTML5解析库，无需任何外部依赖。（详情：
+https://github.com/google/gumbo-parser
+
+Blockly 是一个基于 Web 的可视化编程工具
+
+Earth Enterprise 是 Google Earth Enterprise 的开源版本，是一个提供构建和托管自定义 3D 地球模型和 2D 地图的地理空间应用，旨在让社区继续改进和推进该项目。（详情：
+https://github.com/google/earthenterprise
+
+“钢琴二重奏”的 A.I. Duet。该项目会在你弹出了几个音符之后，通过 AI 自动计算来帮你“补完”旋律的重奏部分。A.I. Duet 运用了人工智能技术，通晓音符的“编码规则”。（详情：
+https://github.com/googlecreativelab/aiexperiments-ai-duet
+
+Wi-Fi 6之前的Wi-Fi标准采用的都是OFDM（正交频分复用）调制方式，其原理是将信道切分为子载波，目的是为了防止干扰，但单一信道同一时间内只能为同一用户服务，而Wi-Fi 6采用了正交频分多址（OFDMA）这一成熟的4G蜂窝技术，单一信道同一时间内可以为多用户服务
+MU-MIMO即多用户输入输出技术
+Wi-Fi 6作为最新的Wi-Fi标准拥有众多的杀手锏：OFDMA 、8x8 DL/UL MU-MIMO、1024-QAM、空间重用等技术的使用,其最大理论数据速率高达9.6Gbps左右
+
