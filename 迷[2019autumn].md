@@ -434,7 +434,7 @@ rustup is an installer for the systems programming language Rust
 MinGW mintty
 
 2019-09-22中午 我的一段钢琴即兴
-<audio src="audio/9月22日%2012点47分钢琴1.mp3" controls></audio>
+<audio src="http://a-boy.tk/mi/audio/9月22日%2012点47分钢琴1.mp3" controls></audio>
 
 ## 2019-09-24 晴
 Дайвинг TV https://yandex.ru/efir?win=385&stream_channel=1808&stream_id=463aaf79431f134097e4b8b3de580399
