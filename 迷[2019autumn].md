@@ -415,3 +415,30 @@ Wi-Fi 6之前的Wi-Fi标准采用的都是OFDM（正交频分复用）调制方�
 MU-MIMO即多用户输入输出技术
 Wi-Fi 6作为最新的Wi-Fi标准拥有众多的杀手锏：OFDMA 、8x8 DL/UL MU-MIMO、1024-QAM、空间重用等技术的使用,其最大理论数据速率高达9.6Gbps左右
 
+## 2019-09-20 晴
+Installing Chocolatey：
+```
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+@ :: or in Powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+```
+
+`D:\>choco install microsoft-windows-terminal`
+gimp vlc inscape paint.net teamviewer putty vcredist2015 winscp chocolateygui 
+
+rustup is an installer for the systems programming language Rust
+
+## 2019-09-22 晴
+MinGW mintty
+
+Дайвинг TV https://yandex.ru/efir?win=385&stream_channel=1808&stream_id=463aaf79431f134097e4b8b3de580399
+
+https://docs.microsoft.com/en-us/sysinternals/
+尝试用SYSTEM身份启动Windows的Shell进程Explorer？
+
+https://github.com/reactos/reactos  
+ReactOS™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
+
+F:\cloud\opensource\artipub>npm install -g artipub --registry=https://registry.npm.taobao.org
