@@ -446,3 +446,149 @@ https://github.com/reactos/reactos
 ReactOS™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
 
 F:\cloud\opensource\artipub>npm install -g artipub --registry=https://registry.npm.taobao.org
+
+## 2019-10-09
+前天重阳节，是外婆的生日;昨天寒露。今天是小外甥的6岁生日
+
+重庆巴南区麻柳嘴镇南坪坝
+
+张曼如：广州诗如雅化妆品有限公司董事长 兼美迪智品牌创始人,20岁。
+做微商3年，18岁买下一套房，19岁创立美迪智品牌（2017年6月品牌创立）做微商之前在佛山的制衣厂工作，小小年纪懂得拼搏，晚上下班还去街市上面摆地摊，身边的人都被她的毅力所震撼。因为一些事她辞掉制衣厂的工作，用在摆地摊认识的人脉做起了微商，一直到现在，3年时间，从摆地摊的小姑娘一步步努力着，创办了自己的公司，创立了属于自己的品牌
+
+¥799.00 
+零刻Beelink EQ55迷你电脑台式迷你主机办公家用铝合金 Intel四核心2.5G 、4K播放 双核/J3355/4G/64G/铝合金
+
+永嘉林坑
+
+https://aistudio.baidu.com/aistudio/projectDetail/134315
+飞桨是百度推出的「源于产业实践的开源深度学习平台」
+
+Windows启用system用户：
+1. sethc.exe的权限设置为所有人完全控制
+2. cp sethc.exe sethc.exe.bak
+3. cp cmd.exe sethc.exe
+4. 注销系统后，再快速连续按5次shift键，则会启动覆盖后的sethc.exe
+5. 输入 explorer.exe, 就会进入SYSTEM用户桌面
+
+
+Anaconda或Miniconda，
+ conda install tensorflow
+与pip安装相比，conda安装的性能可以提供8X以上的速度提升
+
+4种典型的深度学习算法：CNN RNN GANs RL
+卷积神经网络 – CNN
+循环神经网络 – RNN
+生成对抗网络 – GANs
+深度强化学习 – RL
+
+长沙宁乡石云线085县道神仙岭风电场
+
+ArtiPub (Article Publisher的简称，意为"文章发布者")是一款开源的一文多发平台，可以帮助文章作者将编写好的文章自动发布到掘金、SegmentFault、CSDN、知乎、开源中国等技术媒体平台，传播优质知识，获取最大的曝光度
+
+openwrite.cn
+
+一款不错的emoji美化commit log的VS code插件,叫做Gitmoji Commit
+
+psd.js将PSD转成SVG
+
+Zdog 让您可以在 Web 上设计和渲染简单的 3D 模型。Zdog 是一个伪 3D 引擎。它的几何形状存在于 3D 空间中，但呈现为扁平形状
+
+美国 5G 网络的峰值下载速度，经测试只比 4G 网络的峰值高三倍，这还是在信号最好的情况下。5G 带来的提升，并没有宣传的那么好。
+
+
+https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo
+
+天路雅西高速
+
+Craigslist、赶集网和58同城同属分类信息网站。
+需要知道的是，在分类信息网站中，Craigslist是当之无愧的鼻祖。
+它从1995年开始建立，于1999年正式成立。
+创办人是Craig Newmark（中文名：克雷格·纽马克），他是一名有15年工作经验的老牌程序员。
+
+https://github.com/algorithm-visualizer/algorithm-visualizer
+
+最近，湖南科技大学化学化工学院大四本科生任德敏在学术圈成为了话题人物。刚刚结束大学三年科研生活的她，已经以第一作者身份发表 10 篇 SCI 论文，总文章数 21 篇。
+
+Podman 是一个开源的容器运行时项目，可在大多数 Linux 平台上使用。Podman 提供与 Docker 非常相似的功能
+
+田园小倩 今日头条视频自媒体月收入近3000元
+
+抱抱脸（Hugging Face）团队，放出了transformers 2.0版本。实现了TensorFlow 2.0和 PyTorch 之间的深度互操作性，NLP
+
+https://jonathanwhiting.com/
+ an Oxford based game developer.
+
+gtts Google文本转语音库
+
+在前不久刚刚建成的开放道路智能驾驶长沙示范区，百度Apollo正式推出中国首个面向普通民众的RoboTaxi试运营服务。
+
+重庆武隆天坑
+
+其实问题并不难，就是简单的数学计算，全世界人口大约70亿，假设平均体重是60千克（毕竟老人小孩都有，平均体重60千克应该不低） ，而人体密度与水差不多，为1吨/立方米，通过简单计算可以得出，全世界人口的总体积大约4.2亿立方米，看起来是个很大的数字，但要换算成千米，需要开三次方，结果大约等于边长为750米的立方体，还不到一千米。所以，如果单纯从数学概念考虑，完全可以把全世界人口装载边长1千米的立方体内
+
+代码补全工具：，来自美国的 Kite，来自加拿大的 TabNine ，aiXcoder，它的研发者们来自于北京大学
+
+CuPy 是一个借助 CUDA GPU 库在英伟达 GPU 上实现 Numpy 数组的库
+pip install cupy
+比numpy快700倍
+
+贵州洞上洞
+
+新加坡打造的airfish 8, 水面飞行器，可当船开
+
+波士顿机器人
+
+湖南郴州高椅岭
+
+https://github.com/crawlab-team/artipub
+
+JS13kGames
+
+微信web开发者工具
+
+戴尔OptiPlex 7070 Ultra，超小型台式机
+
+CutiePi 是一款 8 英寸的构建在树莓派上的开源平板。他们在树莓派论坛上宣布：现在，它只是一台原型机。
+-- Ankush Das（作者）
+
+https://github.com/andrewrk/tetris
+A simple tetris clone written in zig programming language. 
+
+隔河沿大坝
+
+长沙洋沙湖未来科技超级乐园
+
+音乐兄弟组合，乐器是电吹管，日本产的‘雅佳’牌
+
+Anime4K
+
+Anime4K is a state-of-the-art*, open-source, high-quality real-time anime upscaling algorithm that can be implemented in any programming language.
+
+如果要卸载所有账户中的应用，可输入下面的命令，Windows PowerShell 管理员模式，会删除除edge浏览以外的内置应用，代码如下：
+Get-AppxPackage -AllUsers | Remove-AppxPackage
+
+· 2018-10-29 · 10-year-old Samaira Mehtahas become a kid coder to watch in Silicon Valley. 
+
+迪恩·卡门，他被称为“现代爱迪生”，拥有400多项发明
+
+MIT和布朗大学联合开发了交互式数据科学系统，名字叫Northstar。
+
+团队说，这是“全球最快的交互式AutoML工具”；除了速度，它生成模型的成绩，也已经在DARPA D3M AutoML比赛上超越了所有对手。
+
+新疆江布拉克草原
+
+动力冲浪板
+
+鲤鱼爱甜食，鲢鳙喜酸臭，鲫鱼爱奶香，草鱼爱玉米，青鱼爱螺丝!
+
+Scoop 可能是 Windows 上体验最好的「包管理器」
+set-executionpolicy remotesigned -scope currentuser
+
+iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
+Surface Duo：搭载 Android 的双屏 Surface 手机将两块 5.6 寸的显示屏拼接在了一起，展开后能够获得约 8.3 寸屏幕的显示效果；搭载骁龙 855 处理器和定制版 Android 系统，启动器是微软启动器，内置 Google 的 Play 应用商店，但整体 UI 设计却与下面会提到的 Windows 10X 极为相似。不过 Surface Duo 目前更是一个概念上的预告，它的正式发售时间被定在 2020 年的假日季，暂时还没有具体的定价信息
+Surface Neo 
+Surface Pro X
+Surface Pro 7 拥有典雅黑和亮铂金双色可选，售价 749 美元起，国行版 也已同步上架，售价 5788 元起，支持通过 Surface All Access 套餐 24 期免息分期购买，将于 11 月 4 日起陆续发货。
+Surface Laptop 3 ，13 寸版本 999 美元起，15 寸版本 1199 美元起。
+
