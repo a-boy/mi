@@ -434,7 +434,9 @@ rustup is an installer for the systems programming language Rust
 MinGW mintty
 
 2019-09-22中午 我的一段钢琴即兴
+
 <audio src="http://a-boy.tk/mi/audio/9月22日%2012点47分钢琴1.mp3" controls></audio>
+
 
 ## 2019-09-24 晴
 Дайвинг TV https://yandex.ru/efir?win=385&stream_channel=1808&stream_id=463aaf79431f134097e4b8b3de580399
@@ -446,6 +448,9 @@ https://github.com/reactos/reactos
 ReactOS™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
 
 F:\cloud\opensource\artipub>npm install -g artipub --registry=https://registry.npm.taobao.org
+
+## 2019-09-25
+pdf.js pdfmake
 
 ## 2019-10-09
 前天重阳节，是外婆的生日;昨天寒露。今天是小外甥的6岁生日
