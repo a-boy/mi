@@ -597,3 +597,7 @@ Surface Pro X
 Surface Pro 7 拥有典雅黑和亮铂金双色可选，售价 749 美元起，国行版 也已同步上架，售价 5788 元起，支持通过 Surface All Access 套餐 24 期免息分期购买，将于 11 月 4 日起陆续发货。
 Surface Laptop 3 ，13 寸版本 999 美元起，15 寸版本 1199 美元起。
 
+try pandoc. For example, to convert a Markdown document to Word format: 
+```
+pandoc README.md --from markdown --to docx -o temp.docx
+```
