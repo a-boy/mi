@@ -601,3 +601,67 @@ try pandoc. For example, to convert a Markdown document to Word format:
 ```
 pandoc README.md --from markdown --to docx -o temp.docx
 ```
+
+## 2019-10-24 四 阴
+
+陶笛龙舟 陶笛曦曦 陶笛仙儿
+洞箫 孤星独吟
+
+https://www.screely.com/
+fosshub
+
+Win10自带虚拟机组件Hyber-V
+
+北大学霸出品,《简单粗暴TensorFlow 2.0》的作者，是来自北大的李锡涵。
+https://github.com/snowkylin/tensorflow-handbook
+
+10-11，这几天日本遭遇超级台风19号，超市货架一扫而空
+
+[PConline 资讯]10月11日，联想在全球总部未来中心举行了主题为“解密X空间”的新品发布会，正式发布了LEGION Y9000X笔记本电脑，并公布了“联想个人云存储核心测试用户招募”计划。  
+轻薄是很大的亮点，45W标压处理器，14.9mm厚度，比很多低压处理器的轻薄本还要薄，重量也只有1.7kg，采用铝镁合金材质。联想Y9000X首发了五个配置，i5/16GB/512GB/FHD的起步版本只要6999元，根据自己的需求可以在处理器上挑选i7或者i9版本，屏幕也可以升级到UHD版本
+
+邵阳直达昆明高铁已经开通，不足6小时可达
+
+今天，PyTorch1.3 发布了。图灵奖得主，被誉为「深度学习三座山头」之一的 LeCun 发推称赞
+
+用PyTorch实现的李沐《动手学深度学习》，登上GitHub热榜
+
+荔波的大七孔天生桥
+
+太阳光聚集器，达到接近2000℃的高温
+
+《Python游戏编程快速上手》电子档
+
+本田阿西莫Asimo人形机器人
+
+最近宏碁就上架了新款的蜂鸟 SF314轻薄笔记本，搭载10nm处理器，售价4799元。
+
+疯狂的小新Pro13又推出了搭载AMD锐龙H处理器版，搭载的是锐龙R5 3550H游戏本处理器，TDP 35W！依然是2.5K高色域屏，且搭配16GB内存，它的京东预售价格简直令人合不拢嘴：4499元！
+
+4199的华为magicbook pro 16.1寸全面屏，更大气。
+¥4399
+荣耀 MagicBook Pro 科技尝鲜版 预装第三方Linux版操作系统 16.1英寸笔记本电脑 锐龙 Ryzen 5 3550H 8GB 512GB（冰河银）
+
+
+gog.com 数字游戏分发平台
+
+巨型超强钕磁铁
+
+几滴液体镓渗入铝制器件，会使铝断裂瓦解
+
+https://github.com/ossu/computer-science  
+￼ Path to a free self-taught education in Computer Science!
+
+有这么一款游戏，它几乎没用美术资源、靠命令行进行游戏，上线4年多的时间里却累计销量超过100万套，位居Steam历史最高在线人数记录的第43位、最高达到12.7万人在线。
+由Team Fractal Alligator在2015年发布的《Hacknet》确实实现了这等壮举。这是一款基于真实UNIX命令的黑客模拟游戏，玩家在游戏中将扮演一个得到传奇黑客遗赠的幸运儿，一步步成长、搜集线索，寻找陷害传奇黑客Bit的罪魁祸首，探索整个谜团。
+
+日本京都大学旧宿舍 吉田寮 熊野寮，月租4100日元(￥260),男女混合宿舍，自由开放，还可以打麻将，聚聊
+
+智网随身wiFi(无线宽带)，每年400元费用，每天17G。
+
+Google新产品发布会
+Pixel Buds真无线耳机、PixelBook Go笔记本、Nest WiFi路由器、Nest Mini智能音箱以及安卓新标杆Pixel 4系列手机。
+
+Object.fromEntries(new URLSearchParams('name=xuxi&year=24')) // { name: "xuxi", year: "24" }
+
+为了观测到单个原子，只能通过扫描隧道显微镜（STM）。这是因为原子的尺寸非常小，比可见光波长还要短得多，所以光学显微镜无法直接分辨出单个原子。扫描隧道显微镜不仅能够分辨出单个原子，甚至还能精确操纵单个原子。
