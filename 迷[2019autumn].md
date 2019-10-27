@@ -587,9 +587,17 @@ MIT和布朗大学联合开发了交互式数据科学系统，名字叫Northsta
 鲤鱼爱甜食，鲢鳙喜酸臭，鲫鱼爱奶香，草鱼爱玉米，青鱼爱螺丝!
 
 Scoop 可能是 Windows 上体验最好的「包管理器」
+```
 set-executionpolicy remotesigned -scope currentuser
 
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+# or shorter
+iwr -useb get.scoop.sh | iex
+
+PS D:\> $env:SCOOP='D:\scoop'
+PS D:\> $env:SCOOP_GLOBAL='D:\ScoopApps'
+PS D:\> iwr -useb get.scoop.sh | iex
+```
 
 Surface Duo：搭载 Android 的双屏 Surface 手机将两块 5.6 寸的显示屏拼接在了一起，展开后能够获得约 8.3 寸屏幕的显示效果；搭载骁龙 855 处理器和定制版 Android 系统，启动器是微软启动器，内置 Google 的 Play 应用商店，但整体 UI 设计却与下面会提到的 Windows 10X 极为相似。不过 Surface Duo 目前更是一个概念上的预告，它的正式发售时间被定在 2020 年的假日季，暂时还没有具体的定价信息
 Surface Neo 
@@ -601,6 +609,11 @@ try pandoc. For example, to convert a Markdown document to Word format:
 ```
 pandoc README.md --from markdown --to docx -o temp.docx
 ```
+
+## 2019-10-10 阴
+https://www.gitpod.io  一键点击式的在线IDE，专为GitHub  
+只需在浏览器地址栏github仓库url前加上前缀 gitpod.io/# , 例如:  
+https://gitpod.io/#https://github.com/2293/tinycode
 
 ## 2019-10-24 四 阴
 
@@ -665,3 +678,10 @@ Pixel Buds真无线耳机、PixelBook Go笔记本、Nest WiFi路由器、Nest Mi
 Object.fromEntries(new URLSearchParams('name=xuxi&year=24')) // { name: "xuxi", year: "24" }
 
 为了观测到单个原子，只能通过扫描隧道显微镜（STM）。这是因为原子的尺寸非常小，比可见光波长还要短得多，所以光学显微镜无法直接分辨出单个原子。扫描隧道显微镜不仅能够分辨出单个原子，甚至还能精确操纵单个原子。
+
+## 2019-10-27 日 雨
+每次巡游UTF-8， http://2293.ml/webbud/11-UTF-8-Sailing/  都会有新的发现和创想
+
+> ⟖⟗⟘⟙⟚⟛⟜⟝⟞⟟⟠⟡⟢⟣⟤⟥⟦⟧⟨⟩⟪⟫⟬⟭⟮⟯⟰⟱⟲⟳⟴⟵⟶⟷⟸⟹⟺⟻⟼⟽⟾⟿⠀⠁⠂⠃⠄⠅⠆⠇⠈⠉⠊⠋⠌⠍⠎⠏⠐⠑⠒⠓⠔⠕⠖⠗⠘⠙⠚⠛⠜⠝⠞⠟⠠⠡⠢⠣⠤⠥⠦⠧⠨⠩⠪⠫⠬⠭⠮⠯⠰⠱⠲⠳⠴⠵⠶⠷⠸⠹⠺⠻⠼⠽⠾⠿⡀⡁⡂⡃⡄⡅⡆⡇⡈⡉⡊⡋⡌⡍⡎⡏⡐⡑⡒⡓⡔⡕⡖⡗⡘⡙⡚⡛⡜⡝⡞⡟⡠⡡⡢⡣⡤⡥⡦⡧⡨⡩⡪⡫⡬⡭⡮⡯⡰⡱⡲⡳⡴⡵⡶⡷⡸⡹⡺⡻⡼⡽⡾⡿⢀⢁⢂⢃⢄⢅⢆⢇⢈⢉⢊⢋⢌⢍⢎⢏⢐⢑⢒⢓⢔⢕⢖⢗⢘⢙⢚⢛⢜⢝⢞⢟⢠⢡⢢⢣⢤⢥⢦⢧⢨⢩⢪⢫⢬⢭⢮⢯⢰⢱⢲⢳⢴⢵⢶⢷⢸⢹⢺⢻⢼⢽⢾⢿⣀⣁⣂⣃⣄⣅⣆⣇⣈⣉⣊⣋⣌⣍⣎⣏⣐⣑⣒⣓⣔⣕⣖⣗⣘⣙⣚⣛⣜⣝⣞⣟⣠⣡⣢⣣⣤⣥⣦⣧⣨⣩⣪⣫⣬⣭⣮⣯⣰⣱⣲⣳⣴⣵⣶⣷⣸⣹⣺⣻⣼⣽⣾⣿⤀⤁⤂⤃⤄⤅⤆⤇⤈⤉⤊⤋⤌⤍
+
+这段uft-8 字符让我想起设计一个文本方式的俄罗斯方块游戏 Text Tetris
