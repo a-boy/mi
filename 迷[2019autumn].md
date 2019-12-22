@@ -112,41 +112,41 @@ tinypng
 Geek Uninstaller
 
  8月23日，2019金螳螂-中国围棋大会之“中信建投证券杯”世界智能围棋公开赛半决赛三番棋中，绝艺3比0横扫韩国AI韩豆围棋，率先晋级决赛。此时另一场半决赛，星阵围棋与丽拉零（LeelaZero）之战刚刚下完第2局，已经2:0领先的星阵围棋亦打进决赛。明天上午开始进行决赛五番棋，全部比赛8月25日结束。本次比赛总奖金80万元，冠军奖金45万元。
- 
+
  在非洲水量巨大的刚果河上，著名的英加水电站（三期工程）将于明年竣工。我国雅鲁藏布江大拐弯处的墨脱水电站如果建设使用的话，其发电量又将会超越英加水电站
- 
+
  Diy自制天文望远镜
- 
+
  北京时间8月23日，2019年全国大学生象棋锦标赛在上海棋院战罢。最终男子组南开大学新锐范越力压上海财经大学三位国家大师，勇夺桂冠，强势蝉联，孙昕昊、刘子健、王家瑞分获亚军、季军、殿军。女子组浙江大学“象棋小仙女”唐思楠力摘金杯，队友吴可欣获得亚军，上海财经大学陶亭羽、邓茜文季军、殿军。
- 
+
  里拉由于是开源且免费的，在互联网上有很多粉丝，很多棋迷都用它来提升棋力
- 
+
  Fabric.js是一个简单但功能强大的Javascript HTML5 canvas库
- 
+
  大圣文库下载器破解版|大圣文库下载器激活版下载 v1.30绿色版 - 
- 
+
  批量ping网段
  for /L %D in (1,1,255) do ping 10.168.1.%D
- 
+
  .circle{width:calc(80%-20px);}
- 
+
  滨州市沾化区壹网撒鱼渔网加工厂 - 阿里巴巴 ￥27 ￥35
- 
+
  sourcehut git.sr.ht/~a_boy/weed
- 
+
  潜水相机探鱼情
- 
+
  日本奈良少年刑务所
- 
+
  神龙峡在哪里？神龙峡位于重庆南川区南平镇内，距重庆主城区约79公里，距离南川城区23公里。幅员面积约20平方公里。
- 
+
  https://98.js.org/
 
 今天我写了个Goldbach猜想的证明，放在github.com/a-boy/playmath/
 
 
 ## 20190908 晴
- 
+
 idea：风计算；活动看板
 nwjs制作 zephyr 西风 南风
 
@@ -437,7 +437,6 @@ MinGW mintty
 
 <audio src="http://a-boy.tk/mi/audio/9月22日%2012点47分钢琴1.mp3" controls></audio>
 
-
 ## 2019-09-24 晴
 Дайвинг TV https://yandex.ru/efir?win=385&stream_channel=1808&stream_id=463aaf79431f134097e4b8b3de580399
 
@@ -610,6 +609,54 @@ try pandoc. For example, to convert a Markdown document to Word format:
 pandoc README.md --from markdown --to docx -o temp.docx
 ```
 
+## 2019-10
+
+![Screenshot_2019-10-02-17-53-37-749_com.ss.android.article.lite](images/201910/Screenshot_2019-10-02-17-53-37-749_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-03-17-13-04-065_com.ss.android.article.lite](images/201910/Screenshot_2019-10-03-17-13-04-065_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-04-16-26-39-232_com.ss.android.article.lite](images/201910/Screenshot_2019-10-04-16-26-39-232_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-04-16-55-11-230_com.ss.android.article.lite](images/201910/Screenshot_2019-10-04-16-55-11-230_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-09-13-43-59-808_com.ss.android.ugc.aweme](images/201910/Screenshot_2019-10-09-13-43-59-808_com.ss.android.ugc.aweme.jpg)
+
+![Screenshot_2019-10-10-11-20-03-224_com.ss.android.ugc.aweme](images/201910/Screenshot_2019-10-10-11-20-03-224_com.ss.android.ugc.aweme.jpg)
+
+![Screenshot_2019-10-10-16-53-06-613_com.ss.android.article.lite](images/201910/Screenshot_2019-10-10-16-53-06-613_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-12-11-17-27-431_com.ss.android.article.lite](images/201910/Screenshot_2019-10-12-11-17-27-431_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-12-18-19-45-190_com.ss.android.article.lite](images/201910/Screenshot_2019-10-12-18-19-45-190_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-13-09-43-26-812_com.opera.browser](images/201910/Screenshot_2019-10-13-09-43-26-812_com.opera.browser.jpg)
+
+![Screenshot_2019-10-13-09-48-27-698_com.opera.browser](images/201910/Screenshot_2019-10-13-09-48-27-698_com.opera.browser.jpg)
+
+![Screenshot_2019-10-13-12-36-56-363_com.ss.android.article.lite](images/201910/Screenshot_2019-10-13-12-36-56-363_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-13-13-02-25-691_com.ss.android.article.video](images/201910/Screenshot_2019-10-13-13-02-25-691_com.ss.android.article.video.jpg)
+
+![Screenshot_2019-10-19-10-36-30-362_com.tencent.mm](images/201910/Screenshot_2019-10-19-10-36-30-362_com.tencent.mm.jpg)
+
+![Screenshot_2019-10-19-21-37-44-719_com.opera.browser](images/201910/Screenshot_2019-10-19-21-37-44-719_com.opera.browser.jpg)
+
+![Screenshot_2019-10-20-12-07-01-872_com.ss.android.article.news](images/201910/Screenshot_2019-10-20-12-07-01-872_com.ss.android.article.news.jpg)
+
+![Screenshot_2019-10-26-17-24-12-677_com.ss.android.article.lite](images/201910/Screenshot_2019-10-26-17-24-12-677_com.ss.android.article.lite.jpg)
+
+![Screenshot_2019-10-26-17-42-01-954_com.opera.browser](images/201910/Screenshot_2019-10-26-17-42-01-954_com.opera.browser.jpg)
+
+![Screenshot_2019-10-26-17-45-59-052_com.opera.browser](images/201910/Screenshot_2019-10-26-17-45-59-052_com.opera.browser.jpg)
+
+![Screenshot_2019-10-29-23-09-29-194_com.opera.browser](images/201910/Screenshot_2019-10-29-23-09-29-194_com.opera.browser.jpg)
+
+![Screenshot_2019-10-29-23-09-52-091_com.opera.browser](images/201910/Screenshot_2019-10-29-23-09-52-091_com.opera.browser.jpg)
+
+![Screenshot_2019-10-01-14-45-56-140_com.opera.browser](images/201910/Screenshot_2019-10-01-14-45-56-140_com.opera.browser.jpg)
+
+![Screenshot_2019-10-01-14-50-44-873_com.opera.browser](images/201910/Screenshot_2019-10-01-14-50-44-873_com.opera.browser.jpg)
+
 ## 2019-10-10 阴
 https://www.gitpod.io  一键点击式的在线IDE，专为GitHub  
 只需在浏览器地址栏github仓库url前加上前缀 gitpod.io/# , 例如:  
@@ -753,6 +800,10 @@ av51397997翻唱10岁少女宋小睿翻唱《你的酒馆对我打了烊》，�
 ```
 
 ## 2019-10-29
+Pyzo
+
+> Pyzo is a free and open-source computing environment based on Python. If you're used to e.g. Matlab, Pyzo can be considered a free alternative. Pyzo is a Python IDE that works with any Python interpreter installed on your system, including Conda environments. The IDE is aimed at interactivity and simplicity, and consists of an editor, a shell, and a set of tools to help the programmer in various ways.
+
 今天，第二届世界顶尖科学家大会在上海举行，大会邀请了青少年科学家参加。他们大多出生于2001-2004年，最年轻的一位是正在读高一的谈方琳同学，年仅15岁。她的研究成果是菲波那契数列与贝祖数的估计。
 
 <img src="images/20191029/3380035899830256094.jpg">
@@ -768,7 +819,3 @@ av51397997翻唱10岁少女宋小睿翻唱《你的酒馆对我打了烊》，�
 1. 远程低空海上滑索运输
    海上滑索：可以考虑在[日本长崎--上海, 大连--威海,日本下津井--日本丸龟,...]的海面上建立低空索道，进行远程自动运输，中间设立几十几百个中继站仅用于支撑，这样很小的倾角就会产生很高的速度，平均150km/h甚至300km/h我想完全没有问题。一个理想的试验路线是下津井--丸龟，只需在已有的公路上侧搭上两条索道，就可以进行双向自动滑行运输……
 你认为海上滑索运输可行吗？有什么可补充的？有哪些难点和没有考虑到的？或许你有更好的设想？
-
-
-Pyzo
-> Pyzo is a free and open-source computing environment based on Python. If you're used to e.g. Matlab, Pyzo can be considered a free alternative. Pyzo is a Python IDE that works with any Python interpreter installed on your system, including Conda environments. The IDE is aimed at interactivity and simplicity, and consists of an editor, a shell, and a set of tools to help the programmer in various ways.
