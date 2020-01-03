@@ -1,7 +1,10 @@
 ## 2019-11-20
 TCC : Tiny C Compiler bellard.org/tcc/
+
+```
 PS D:\tcc\examples> ../tcc  .\hello_win.c
 PS D:\tcc\examples> ../tcc -run .\fib.c 34
+```
 
 ## 2019-11
 
@@ -412,3 +415,10 @@ zim-wiki
 ![Screenshot_2019-12-10-11-06-05-321_com.ss.android.article.lite](images/201912/Screenshot_2019-12-10-11-06-05-321_com.ss.android.article.lite.jpg)
 
 ![Screenshot_2019-12-10-11-10-24-730_com.ss.android.article.lite](images/201912/Screenshot_2019-12-10-11-10-24-730_com.ss.android.article.lite.jpg)
+
+
+python -m pip install --upgrade pip -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+
+## 2020-01-03 五
+尺规作图无限接近法三等分角
+
