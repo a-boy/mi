@@ -6,8 +6,7 @@ relative_links:
 include:
   - README.md
   - 迷[2015-2016].docx
-  - 迷[2019autumn].md
   - 迷[2019summer].md
+  - 迷[2019autumn].md
   - 迷[2019winter].md
   - 迷[2022spring].md
-theme: jekyll-theme-cayman
