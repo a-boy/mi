@@ -10,4 +10,4 @@ include:
   - 迷[2019summer].md
   - 迷[2019winter].md
   - 迷[2022spring].md
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
