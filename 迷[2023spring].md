@@ -271,3 +271,28 @@ In graph theory, an undirected graph H is called a minor of the graph G if H can
 The theory of graph minors began with Wagner's theorem that a graph is planar if and only if its minors include neither the complete graph K5 nor the complete bipartite graph K3,3.
 
 Many of the known lower bounds on Ramsey numbers come from examples of circulant graphs that have small maximum cliques and small maximum independent sets.[1]
+
+## 2023-03-28
+IT之家 3 月 28 日消息，据十铨消息，近期十铨的 T-FORCE DELTA RGB DDR5 与 T-CREATE EXPERT DDR5 即将推出 24GB 与 48GB 非二进制的版本。
+
+Redmi Note 12 Turbo将会搭载第二代骁龙7＋移动平台，这款移动平台是史上最强的骁龙7系移动平台，拥有一个主频为2.91GHz的超大核心，其GPU能力相比前代产品提升了两倍左右，CPU性能则相比前代产品提升了大约50%。而为了配合这款移动平台的强大性命，Redmi还在Redmi Note 12 Turbo这款机型上配备3725平方毫米的VC液冷均热板，其散热能力应该也比较强悍。其它方面，Redmi Note 12 Turbo将会配备一块柔性OLED屏幕，支持1920Hz的高频PWM调光和HDR 10＋，通过了SGS低蓝光认证。该机同时内置一块5000毫安的大容量电池，续航时间可达1.33天，后置主摄采用一块6400万像素的传感器，支持OIS光学防抖，最大提供16GB＋1TB的存储配置。此外，该机重量约为181g，拥有立体声双扬声器、NFC、蓝牙5.3、红外遥控、3.5mm耳机孔等特性。
+
+TOPMORE 达墨 Gemini双子 M.2固态硬盘 2TB（NVMe、PCIe 4.0）当前活动价557元，售价历史新低，综合性价比非常不错
+
+4月20日晚，宏碁发布了新一代传奇Go 16笔记本(海外名Swift X 16)，全球首发采用了锐龙7 7940H。4nm Zen4！宏碁全球抢发AMD锐龙9 7940H笔记本：配个RTX 4050
+
+https://www.8y-ad.com/codepen/
+
+## 2023-06-17
+https://1.1.1.1 Cloudflare WARP
+
+日本免费博客空间blog.jp
+
+2023年6月，我国公布了一项重大成果：在福建兴化湾海上风电场，实现了直接电解海水制氢，而且用的就是风电场发出来的电，这个成就可是全球首次！
+
+plot(1/(x^2+1),(x, 0, 2.5), fill=True,aspect_ratio=1) 这个曲线像一个鼻梁
+
+Eva.js is a front-end game engine specifically for creating interactive game projects.
+
+https://www.youtube.com/@alanbecker 火柴人动画
+
