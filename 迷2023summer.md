@@ -68,7 +68,8 @@ https://eol.org/ Encyclopedia of Life
 https://developer.mozilla.org/en-US/play
 
 https://docs.replit.com/hosting/embedding-repls  
-<iframe src="https://replit.com/@a_boy/vue123?lite=true" width="600" height="400" />
+
+iframe src="https://replit.com/@a_boy/vue123?lite=true" width="600" height="400" 
 
 https://github.com/dsrw/enu 3D live coding, implemented in Nim.
 
