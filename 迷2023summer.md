@@ -91,8 +91,6 @@ https://quicknote.io/mynotes
 
 SpleeterGUI - Music source separation desktop app
 
-https://replit.com/@a_boy/HackerNews a svelte example  
-<iframe src="https://replit.com/@a_boy/HackerNews?embed=1" width="600" height="400" />
 
 2023-05-20 收到小米平板，感觉很好
  
@@ -208,3 +206,9 @@ moviepy​ 是一个 Python 库，用于视频编辑和处理。
 LiteDB是类似于MongoDB的轻量级嵌入式数据库。它完全使用C#开发。
 
 win12网页版网址：http://www.does5.cn/
+
+https://replit.com/@a_boy/HackerNews a svelte example  
+
+<iframe src="https://replit.com/@a_boy/HackerNews?embed=1" width="600" height="400"/>
+
+iframe之后的内容不显示，这是什么原因
