@@ -9,3 +9,4 @@
 - [迷2023spring.md](迷2023spring.html)
 - [迷2023summer.md](迷2023summer.html)
 - [迷2024autumn.md](迷2024autumn.html)
+- [迷2025summer.md](迷2025summer.html)
