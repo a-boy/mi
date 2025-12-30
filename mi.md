@@ -810,3 +810,16 @@ Opera News utilizes an AI-technology-powered recommendation system to help creat
 
 github多用户管理 You can use the `github [list | login | logout]` commands to manage your GitHub accounts. These commands are documented in the command-line usage or by running   
 `git credential-manager github --help` .
+
+Pinterest is an American social media service for publishing and discovery of information[5] in the form of digital pinboards.[6] This includes recipes, home, style, motivation, and inspiration on the Internet using image sharing.[7] Pinterest, Inc. was founded by Ben Silbermann, Paul Sciarra, and Evan Sharp,[8] and is headquartered in San Francisco.[9]
+
+OpenStreetMap 是一个世界地图，由像您一样的人们所构筑，可依据开放许可协议自由使用。
+
+- 💡好久以前的想法：使用浏览器定制英语学习情景模式(Chromium/Chrome/Edge/Yandex Browser/Firefox)特定Profile：FastLearningEnglish 制作或塔装 extensions bookmarks html/js
+https://support.google.com/youtube/thread/355876071/will-ai-videos-not-be-monetized?hl=en
+ https://a-boy.github.io/rush/ Rush!中背单词
+
+- 💡https://github.com/ahmeng/codespace-lite-desktop rdp远程桌面，用途
+    1. 浏览器中访问studio.youtube.com和国外AI网站，使用gemini cli等
+    2. ssh -D1080 作翻墙代理
+    
