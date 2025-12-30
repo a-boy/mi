@@ -807,3 +807,6 @@ Opera News Hub
 https://hub.opera.com
 · Opera News Hub: Create. Share. Earn
 Opera News utilizes an AI-technology-powered recommendation system to help creators distribute their content to a highly targeted audience. Our goal is to help ...
+
+github多用户管理 You can use the `github [list | login | logout]` commands to manage your GitHub accounts. These commands are documented in the command-line usage or by running   
+`git credential-manager github --help` .
