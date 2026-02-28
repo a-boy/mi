@@ -158,20 +158,6 @@ scp -r my_directory user@remote_host:/home/user/
 
 https://stitch.withgoogle.com/
 
- 2023-05-20 收到小米平板，感觉很好
- 
- 剑桥English in use 系列图书
- 
- Recamán's sequence Sound representation 
- This is not a permutation of the integers: the first repeated term is 
-{\displaystyle 42=a_{24}=a_{20}}.[7] Another one is 
-{\displaystyle 43=a_{18}=a_{26}}.  Neil Sloane has conjectured that every number eventually appears,but it has not been proved. Even though 10＃230 terms have been calculated (in 2018), the number 852,655 has not appeared on the list.
- 
-https://github.com/mushan0x0/AI0x0.com  
-一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
-
-庞伯特cube智能乒乓球台
-
 ShareX是一款开源免费Windows截图工具，起初是一个小巧的截图工具，经过多年的迭代和发展，不仅可以截图，还可以屏幕录制、自动添加水印、OCR 文字识别、打序号，标注，自动添加水印和阴影等等。
 
 https://markmap.js.org/repl 

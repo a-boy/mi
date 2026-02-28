@@ -1822,3 +1822,13 @@ Edit: I got this result, don't think it's the top model on the A/B test from Gem
 
 https://codepen.io/Po-Ti/pen/ogbGXzN
 https://github.com/okibcn/nano-for-windows/tree/master/src
+
+https://github.com/menloresearch/jan an is an open source alternative to ChatGPT that runs 100% offline on your computer  [jan.ai/](https://jan.ai/)
+
+NirSoft Utilities Panel is an experimental Web page that contains icons with links to all major NirSoft Utilities as exe files. When you move the mouse over the desired icon, you'll see the current version and the last update date of the utility.[Sort By Name](https://www.nirsoft.net/panel/byname.html)<map name="panelmap"></map>![](https://www.nirsoft.net/panel/panel.png)
+
+https://www.virustotal.com/gui/home/upload
+
+Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+
+https://cn.bing.com/dict/search?q=libra

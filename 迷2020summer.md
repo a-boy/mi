@@ -1,14 +1,4 @@
----
-layout: post
-tags: []
-categories: []
-#date: 2020-01-24 22:20
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
-title: 'title'
----
+## 2020
 
 金属镓滴上一滴使其它金属石块等变得脆碎
 
@@ -116,5 +106,4 @@ Google App中的“Google Labs”将恢复
 该视频时长4分钟，在视频包装和形式上，很像美国人熟悉的有线电视新闻节目。而在内容定位上，更像是一个华为官方自媒体，向全世界发布华为的信息和态度。
 
 视频地址： https://www.youtube.com/watch?v=q9GTwOhj8v0
-
 
