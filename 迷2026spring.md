@@ -1460,7 +1460,6 @@ https://github.com/Nagi-ovo/gemini-voyager
 https://www.scirp.org/journal/paperinformation?paperid=57045
 
 https://www.britannica.com/science/combinatorics/Combinatorial-geometry
-https://github.com/daattali/beautiful-jekyll?tab=readme-ov-file#readme
 
 https://github.com/barryclark/jekyll-now
 https://github.com/mojombo/mojombo.github.io
