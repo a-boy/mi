@@ -104,4 +104,4 @@ https://github.com/theori-io/copy-fail-CVE-2026-31431/issues/35
 
 https://pari.math.u-bordeaux.fr/gpwasm.html
 factor(numerator(1/a+1/b+1/c-1/(a+b+c)))
-factor(domirator(1/a+1/b+1/c-1/(a+b+c)))
+factor(denominator(1/a+1/b+1/c-1/(a+b+c)))
